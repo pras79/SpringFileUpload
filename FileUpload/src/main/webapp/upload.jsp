@@ -94,7 +94,7 @@ footer {background: #aaa;color:white;}
 	</div>
 	
 	</form>
-	<footer>footer @FileUpload A11pplication</footer>
+	<footer>footer@ FileUpload</footer>
 </div>
 
 </body>

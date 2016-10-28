@@ -3,7 +3,7 @@ package com.vakatip.spring.helper;
 
 public class FileRecord {
 
-    private String Date; 
+    private String Date;
     private String rowNumber;
     private String description;
     private String value;
